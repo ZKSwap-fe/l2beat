@@ -11,7 +11,7 @@ import {
 import { Project } from './types'
 
 export const zkswap: Project = {
-  name: 'ZKSwap',
+  name: 'ZKSwap V1',
   slug: 'zkswap',
   associatedToken: 'ZKS',
   bridges: [
